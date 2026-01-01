@@ -43,3 +43,6 @@ This project was created to practice:
 ## 🚀 Reference
 <img width="1920" height="1200" alt="Reference" src="https://github.com/user-attachments/assets/bda042be-81e5-42f9-bc61-75a4a9c37ff5" />
 
+# 📋 Note
+To save time during the creation of the site i decided to use one image for the shoes.
+
